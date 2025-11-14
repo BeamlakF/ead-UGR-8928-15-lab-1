@@ -45,3 +45,4 @@ C:\Users\Beam\Documents\4th year\EAD\Labs\lab1\TodoApi\obj\Debug\net9.0\refint\T
 C:\Users\Beam\Documents\4th year\EAD\Labs\lab1\TodoApi\obj\Debug\net9.0\TodoApi.pdb
 C:\Users\Beam\Documents\4th year\EAD\Labs\lab1\TodoApi\obj\Debug\net9.0\TodoApi.genruntimeconfig.cache
 C:\Users\Beam\Documents\4th year\EAD\Labs\lab1\TodoApi\obj\Debug\net9.0\ref\TodoApi.dll
+C:\Users\Beam\Documents\4th year\EAD\Labs\lab1\TodoApi\obj\Debug\net9.0\TodoApi.sourcelink.json
